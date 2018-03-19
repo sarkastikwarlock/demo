@@ -1,14 +1,26 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "Firstname": "Olingvas",
+    "Email": "Olingvas@e.ntu.edu.sg",
+    "Address": "NTU,Hall3,73-615",
+    "Dob": "2000-07-05",
+    "Lastname": "Shaw",
+    "Ic": "ZL9426730",
+    "Gender": "F",
+    "Nationality": "British",
+    "Matric": "Y6078881Z",
+    "Contact": 93294291
+  },
+  {
+    "Firstname": "Georalet",
+    "Email": "Georalet@e.ntu.edu.sg",
+    "Address": "NTU,Hall14,36-614",
+    "Dob": "1997-07-21",
+    "Lastname": "Marry",
+    "Ic": "MR1454420",
+    "Gender": "F",
+    "Nationality": "English",
+    "Matric": "F5602254J",
+    "Contact": 93891306
   }
-}
+]
